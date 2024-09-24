@@ -1,8 +1,6 @@
 Welcome to Kaizer!
 ==================
 
-**
-
 Instant AI-Powered On-Chain SQL
 
 Deploy Kaizer's NLP-to-SQL API in minutes with a few lines of code
@@ -11,8 +9,6 @@ Deploy Kaizer's NLP-to-SQL API in minutes with a few lines of code
 
 Integrate NLP-driven SQL queries with zero-knowledge proofs for seamless on-chain data retrieval. Connect on-chain and off-chain datasets via RESTful and GraphQL APIs, accessing real-time, pre-indexed blockchain data. Power advanced AI applications with zkSNARK-secured, low-latency data pipelines.
 
-  
-**
 
 
 Features
