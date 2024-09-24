@@ -27,6 +27,6 @@ Features
 *   High-Fidelity Visualization: Integrates an advanced visualization layer for real-time generation of customizable charts, graphs, and dashboards from query outputs.
 
 
-<to add official links>
+(to add official links)
 
     
