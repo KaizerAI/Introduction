@@ -25,4 +25,8 @@ Features
 *   ETL-Driven Data Ingestion: Enables scalable ingestion of diverse data streams via configurable ETL pipelines, supporting complex data structures.
     
 *   High-Fidelity Visualization: Integrates an advanced visualization layer for real-time generation of customizable charts, graphs, and dashboards from query outputs.
+
+
+<to add official links>
+
     
