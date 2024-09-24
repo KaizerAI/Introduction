@@ -9,9 +9,7 @@ Deploy Kaizer's NLP-to-SQL API in minutes with a few lines of code
 
 Integrate NLP-driven SQL queries with zero-knowledge proofs for seamless on-chain data retrieval. Connect on-chain and off-chain datasets via RESTful and GraphQL APIs, accessing real-time, pre-indexed blockchain data. Power advanced AI applications with zkSNARK-secured, low-latency data pipelines.
 
-
-
-Features
+⚙ Features
 --------
 
 *   Natural Language to SQL Translation: Utilizes advanced LLMs for semantic parsing, converting natural language queries into optimized SQL statements.
