@@ -1,9 +1,9 @@
 Welcome to Kaizer!
 ==================
 
-Instant AI-Powered On-Chain SQL
+**Instant AI-Powered On-Chain SQL
 
-Deploy Kaizer's NLP-to-SQL API in minutes with a few lines of code
+Deploy Kaizer's NLP-to-SQL API in minutes with a few lines of code**
 
   
 
